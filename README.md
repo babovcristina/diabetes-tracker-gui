@@ -3,6 +3,12 @@
 A desktop application for tracking and analyzing diabetes-related health data, built with Python and Tkinter.
 This is the upgraded version of the [CLI-based Diabetes Tracker](https://github.com/babovcristina/diabetes-tracker-python).
 
+This project was built as a learning exercise while exploring:
+- Tkinter GUI development
+- SQLite integration
+- diabetes data tracking
+
+Parts of the GUI implementation were developed with guidance and external resources while I focused on understanding, modifying, and integrating the functionality.
 ---
 
 ## Technologies Used
